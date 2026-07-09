@@ -1,0 +1,6 @@
+{
+  "name": "Merch Mockups",
+  "description": "On-demand merch mockups. Upload your logo or use AI to generate stunning logos and backgrounds, place them on customizable product shots, preview in 3D-like realism, and export print-ready files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
